@@ -27,3 +27,26 @@ Price Distribution: Histogram revealing overall price range and outliers.
 Filters
 Monthly trends
 Price, bedroom, bathroom distribution based on built year, lot area, and living area.
+
+
+
+
+
+
+# Project-2: India's International Trade Analysis Dashboard
+
+This Tableau dashboard provides insights into India's international trade, focusing on export and import data from various countries over the years.
+
+## Overview
+
+- **Name:** India's International Trade Analysis
+- **Data Source:** [Insert Data Source]
+- **Key Visualizations:**
+  - **Line Chart:** Showing the trend of India's export vs. import from 1997 to 2023.
+  - **Bar Charts:** Top 15 countries with the highest import and export values.
+  - **Map Visualization:** Total trade by country.
+
+## Features
+
+- **Interactive Filters:** Users can filter data by year and view specific trends.
+- **Tooltip Insight:** Hover over countries in the bar charts to see detailed information, including the trade balance and a mini line chart of the trade trend over time.
