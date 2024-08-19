@@ -1,4 +1,4 @@
-## Project-1:Gurgaon Housing Price Trends Analysis (Link: https://github.com/Dbalial/Tableau-Projects/tree/main/Analysis%20Of%20Housing%20Price%20In%20Gurgaon)
+## Project-1:Gurgaon Housing Price Trends Analysis [Link]( https://github.com/Dbalial/Tableau-Projects/tree/main/Analysis%20Of%20Housing%20Price%20In%20Gurgaon)
 Overview
 This project analyzes housing price trends in Gurgaon, India, focusing on factors like bedrooms, bathrooms, waterfront presence, and house condition.
 
