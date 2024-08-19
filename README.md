@@ -33,7 +33,9 @@ Price, bedroom, bathroom distribution based on built year, lot area, and living 
 
 
 
-# Project-2: India's International Trade Analysis Dashboard
+
+
+# Project-2: India's International Trade Analysis Dashboard [LINK](https://github.com/Dbalial/Tableau-Projects/tree/main/India's%20Trade%20Analysis)
 
 This Tableau dashboard provides insights into India's international trade, focusing on export and import data from various countries over the years.
 
