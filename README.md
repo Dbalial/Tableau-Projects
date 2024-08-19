@@ -1,8 +1,8 @@
 ## Project-1:Gurgaon Housing Price Trends Analysis [Link]( https://github.com/Dbalial/Tableau-Projects/tree/main/Analysis%20Of%20Housing%20Price%20In%20Gurgaon)
-Overview
+-**Overview**
 This project analyzes housing price trends in Gurgaon, India, focusing on factors like bedrooms, bathrooms, waterfront presence, and house condition.
 
-Purpose
+-**Purpose**
 The dashboard aims to:
 
 Track price trends over time.
@@ -13,7 +13,7 @@ Insights are valuable for:
 Real estate investments
 Pricing strategies
 Data Overview
-Key metrics include:
+-**Key metrics include:**
 
 Waterfront presence
 Price trends
@@ -40,7 +40,6 @@ This Tableau dashboard provides insights into India's international trade, focus
 ## Overview
 
 - **Name:** India's International Trade Analysis
-- **Data Source:** [Insert Data Source]
 - **Key Visualizations:**
   - **Line Chart:** Showing the trend of India's export vs. import from 1997 to 2023.
   - **Bar Charts:** Top 15 countries with the highest import and export values.
